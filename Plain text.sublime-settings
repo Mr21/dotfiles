@@ -1,0 +1,7 @@
+// These settings override both User and Default settings for the Plain text syntax
+{
+	"translate_spaces_to_tabs": false,
+	"trim_automatic_white_space": false,
+	"trim_trailing_white_space_on_save": false,
+	"ensure_newline_at_eof_on_save": false,
+}

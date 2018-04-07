@@ -1,0 +1,21 @@
+{
+	"theme": "Adaptive.sublime-theme",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"show_encoding": true,
+	"show_line_endings": true,
+
+	"default_line_ending": "unix",
+	"detect_indentation": false,
+	"file_exclude_patterns":
+	[
+		"*.min.js",
+		"*.min.css",
+		"*.scssc"
+	],
+	"font_size": 15,
+	"tab_size": 4,
+	"translate_spaces_to_tabs": true,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
+	"ensure_newline_at_eof_on_save": true,
+}
